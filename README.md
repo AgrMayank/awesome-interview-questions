@@ -138,7 +138,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Second set of commonly asked C programming interview questions from computer science portal for geeks](http://geeksquiz.com/commonly-asked-c-programming-interview-questions-set-2/)
 * [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 
-### C♯
+### C#
 
 * [15 Essential C# Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
@@ -346,6 +346,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Python interview questions. Part I. Junior](https://luminousmen.com/post/6)
 * [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
+* [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 
 ### Ruby on Rails
 
@@ -474,7 +475,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
 * [Schema, Questions & Solutions for SQL Exercising](https://github.com/XD-DENG/SQL-exercise)
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
-* [SQL Interview Questions CHEAT SHEET] (https://www.interviewbit.com/sql-interview-questions/)
+* [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
 ### SQL Lite
 
